@@ -140,7 +140,7 @@ When you open the folder in Claude Code and say "start":
 
 After Module 0B, explore the rest of the track:
 
-- **[Module 1E: Vibe Code Your First Project](../module-1e-vibe-code/)** — Build and deploy a real personal website. You'll have a live URL by the end.
+- **[Module 1: Vibe Code Your First Project](../module-1-vibe-code/)** — Build and deploy a real personal website. You'll have a live URL by the end.
 
 Are you a Product Manager? Check out the **[Claude Code for PMs track](https://github.com/anmolgupta824/ai-native-pm)** — same skills, built for your specific PM workflows.
 

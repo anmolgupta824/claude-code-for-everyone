@@ -206,6 +206,6 @@ You've gone from "I can use Claude Code" to having a complete AI-powered workspa
 
 Ready to build something bigger?
 
-**[Module 1E: Vibe Code Your First Project](../module-1e-vibe-code/)** — Take everything you learned here and build a real personal website that goes live on the internet. You'll have a URL you can share by the end.
+**[Module 1: Vibe Code Your First Project](../module-1-vibe-code/)** — Take everything you learned here and build a real personal website that goes live on the internet. You'll have a URL you can share by the end.
 
 If you're a Product Manager, check out the **[Claude Code for PMs track](https://github.com/anmolgupta824/ai-native-pm)** — the same skills applied to PM-specific workflows like PRDs, standups, and sprint planning.

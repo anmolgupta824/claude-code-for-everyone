@@ -27,7 +27,7 @@
 ### Free
 - **Module 0: Claude Code Basics** - Install Claude Code and run your first session
 - **Module 0B: Claude Code Mastery** - CLAUDE.md, Skills, Hooks, Sub-agents, and 8 prompting patterns
-- **Module 1E: Vibe Code Your First Project** - Build and deploy a personal website with a live URL
+- **Module 1: Vibe Code Your First Project** - Build and deploy a personal website with a live URL
 
 ## Quick Start
 
@@ -48,7 +48,7 @@ claude-code-for-everyone/
 ├── modules/
 │   ├── module-0-claude-basics/       # Getting started with Claude Code
 │   ├── module-0b-everyone/           # Claude Code Mastery (universal)
-│   └── module-1e-vibe-code/          # Build and deploy a personal website
+│   └── module-1-vibe-code/          # Build and deploy a personal website
 ├── LICENSE
 └── README.md
 ```

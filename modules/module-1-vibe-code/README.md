@@ -1,4 +1,4 @@
-# Module 1E: Vibe Code Your First Project
+# Module 1: Vibe Code Your First Project
 
 **Build and deploy a real website. Zero coding experience required.**
 
@@ -48,7 +48,7 @@ You won't write code. Claude Code does that. You're the director — you tell Cl
 
 ```bash
 git clone https://github.com/anmolgupta824/claude-code-for-everyone.git
-cd claude-code-for-everyone/modules/module-1e-vibe-code
+cd claude-code-for-everyone/modules/module-1-vibe-code
 claude
 ```
 
@@ -59,7 +59,7 @@ Then type `start` and follow the teacher's instructions.
 Open Claude Code and type:
 
 ```
-Clone module-1e-vibe-code from https://github.com/anmolgupta824/claude-code-for-everyone
+Clone module-1-vibe-code from https://github.com/anmolgupta824/claude-code-for-everyone
 Then tell me how to start
 ```
 
@@ -112,7 +112,7 @@ A: Yes. Any time you make a change and re-deploy, the live site updates automati
 
 ## What's Next?
 
-After Module 1E:
+After Module 1:
 - You have a live website. Keep improving it.
 - Share it: put it in your Twitter/LinkedIn bio, add it to your email signature
 - Want to add features? Go back to Claude Code and ask — "Add a contact form to my site", "Add a dark mode toggle", "Make it mobile-friendly"
