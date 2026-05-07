@@ -1,34 +1,39 @@
-# Claude Code for Everyone
+<p align="center">
+  <h1 align="center">Claude Code for Everyone</h1>
+  <p align="center">
+    Free modules for building with AI. No coding experience or PM background required.
+  </p>
+</p>
 
-**Free modules for building with AI. No coding experience or PM background required.**
+<p align="center">
+  <a href="https://github.com/anmolgupta824/claude-code-for-everyone/stargazers"><img src="https://img.shields.io/github/stars/anmolgupta824/claude-code-for-everyone?style=for-the-badge&color=yellow" alt="Stars"></a>
+  <a href="https://github.com/anmolgupta824/claude-code-for-everyone/network/members"><img src="https://img.shields.io/github/forks/anmolgupta824/claude-code-for-everyone?style=for-the-badge" alt="Forks"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge" alt="License"></a>
+  <a href="https://github.com/anmolgupta824/claude-code-for-everyone/issues"><img src="https://img.shields.io/github/issues/anmolgupta824/claude-code-for-everyone?style=for-the-badge" alt="Issues"></a>
+</p>
 
----
-
-## The Track
-
-| Module | What It Is | Time |
-|--------|-----------|------|
-| [Module 0: Claude Code Basics](modules/module-0-claude-basics/) | Install Claude Code, run your first session | 30 min |
-| [Module 0B: Claude Code Mastery](modules/module-0b-everyone/) | CLAUDE.md, Skills, Hooks, Sub-agents, Prompting | 2.5 hrs |
-| [Module 1E: Vibe Code Your First Project](modules/module-1e-vibe-code/) | Build and deploy a personal website | 1.5 hrs |
-
-**Total: ~4.5 hours. By the end, you have a live website and a Claude Code workflow you'll use every day.**
-
----
-
-## Who This Is For
-
-Anyone who wants to build with AI:
-- Marketers, designers, founders, students
-- Career switchers learning AI tools
-- Developers who want to move faster
-- Curious people who saw someone ship something with Claude and thought "I want to do that"
-
-No coding experience needed. No PM background needed. Just a Claude Pro subscription and curiosity.
+<p align="center">
+  <b>Build and ship with AI in a weekend.</b>
+  <br/>
+  <i>Free. Open source. 3 modules. No coding experience needed.</i>
+  <br/><br/>
+  <a href="https://github.com/anmolgupta824/claude-code-for-everyone/stargazers"><img src="https://img.shields.io/badge/Like%20this%3F-Give%20it%20a%20%E2%AD%90-yellow?style=for-the-badge" alt="Star this repo"></a>
+</p>
 
 ---
 
-## How to Start
+## Modules
+
+### Free
+- **Module 0: Claude Code Basics** - Install Claude Code and run your first session
+- **Module 0B: Claude Code Mastery** - CLAUDE.md, Skills, Hooks, Sub-agents, and 8 prompting patterns
+- **Module 1E: Vibe Code Your First Project** - Build and deploy a personal website with a live URL
+
+## Quick Start
+
+1. Pick a module from above
+2. Clone this repo and open the module folder in Claude Code
+3. Type `start` and follow the teacher
 
 ```bash
 git clone https://github.com/anmolgupta824/claude-code-for-everyone.git
@@ -36,14 +41,30 @@ cd claude-code-for-everyone/modules/module-0-claude-basics
 claude
 ```
 
-Type `start` and follow the teacher.
+## Project Structure
 
----
+```
+claude-code-for-everyone/
+├── modules/
+│   ├── module-0-claude-basics/       # Getting started with Claude Code
+│   ├── module-0b-everyone/           # Claude Code Mastery (universal)
+│   └── module-1e-vibe-code/          # Build and deploy a personal website
+├── LICENSE
+└── README.md
+```
 
 ## Are You a Product Manager?
 
-Check out the **[Claude Code for PMs track](https://github.com/anmolgupta824/ai-native-pm)** — same skills, built for PM-specific workflows: PRDs, standups, sprint planning, and more.
+Check out the **[Claude Code for PMs track](https://github.com/anmolgupta824/ai-native-pm)** — same skills, built for PM workflows: PRDs, standups, sprint planning, and more.
+
+## Want More?
+
+For more resources and updates — visit [theainativepm.com](https://theainativepm.com) and subscribe.
 
 ---
 
-**Created by Anmol Gupta** | [theainativepm.com](https://theainativepm.com) | [learn](https://theainativepm.com/learn)
+If this helped you, give it a ⭐ — it helps others find these modules.
+
+## License
+
+MIT — see [LICENSE](LICENSE)
